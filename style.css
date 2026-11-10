@@ -9,14 +9,14 @@ body {
     width: 300px
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px auto;
-    background-color: white;
+    background-color: yellow;
     border-radius: 15px; /* Membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
     text-allign: center;
 }
 |
 .kartu-profil img {
-     width: 150px;
+     width: 200px;
      border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
